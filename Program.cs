@@ -4,23 +4,30 @@ namespace Day4EmployeeWage
 {
     class Program
     {
+        public const int Wage_per_hour = 20;
+        public const int is_FullTime = 0;
+        public const int is_PartTime = 1;
+        
         static void Main(string[] args)
         {
-            int Wage_per_hour = 20;
-            int is_partTime = 1;
-            int Emphr;
+            int emphr;
             Random random = new Random();
             int value = random.Next(0,2);
+           
 
-            if (value == is_partTime)
+            switch (value)
             {
-                Emphr = 8;
-                Console.WriteLine("Employee is FullTime and Wage is " +(Emphr*Wage_per_hour));
-            }
-            else
-            {
-                Emphr = 4;
-                Console.WriteLine("Employee is PartTime and Wage is " + (Emphr * Wage_per_hour));
+                case is_FullTime:
+                emphr = 8;
+                    Console.WriteLine("Employee is FullTime and Wage is " +( emphr * Wage_per_hour));
+                    break;
+                case is_PartTime:
+                    emphr = 4;
+                    Console.WriteLine("Employee is PartTime and Wage is " + (emphr * Wage_per_hour));
+                    break;
+                default:
+                    emphr = 0;
+                    break;
             }
         }
     }
