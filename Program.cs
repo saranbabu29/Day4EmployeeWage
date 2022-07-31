@@ -11,6 +11,8 @@ namespace Day4EmployeeWage
         static void Main(string[] args)
         {
             int emphr;
+            int dailyWage;
+            int days=20;
             Random random = new Random();
             int value = random.Next(0,2);
            
@@ -18,12 +20,14 @@ namespace Day4EmployeeWage
             switch (value)
             {
                 case is_FullTime:
-                emphr = 8;
-                    Console.WriteLine("Employee is FullTime and Wage is " +( emphr * Wage_per_hour));
+                    emphr = 8;
+                    dailyWage = emphr * Wage_per_hour;
+                    Console.WriteLine("Employee is FullTime and Wage is " +( dailyWage * days));
                     break;
                 case is_PartTime:
                     emphr = 4;
-                    Console.WriteLine("Employee is PartTime and Wage is " + (emphr * Wage_per_hour));
+                    dailyWage = emphr * Wage_per_hour;
+                    Console.WriteLine("Employee is PartTime and Wage is " + (dailyWage*days));
                     break;
                 default:
                     emphr = 0;
