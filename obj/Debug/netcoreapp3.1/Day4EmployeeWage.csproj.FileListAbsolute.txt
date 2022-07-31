@@ -1,0 +1,14 @@
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\bin\Debug\netcoreapp3.1\Day4EmployeeWage.exe
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\bin\Debug\netcoreapp3.1\Day4EmployeeWage.deps.json
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\bin\Debug\netcoreapp3.1\Day4EmployeeWage.runtimeconfig.json
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\bin\Debug\netcoreapp3.1\Day4EmployeeWage.runtimeconfig.dev.json
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\bin\Debug\netcoreapp3.1\Day4EmployeeWage.dll
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\bin\Debug\netcoreapp3.1\Day4EmployeeWage.pdb
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\obj\Debug\netcoreapp3.1\Day4EmployeeWage.csproj.AssemblyReference.cache
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\obj\Debug\netcoreapp3.1\Day4EmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\obj\Debug\netcoreapp3.1\Day4EmployeeWage.AssemblyInfoInputs.cache
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\obj\Debug\netcoreapp3.1\Day4EmployeeWage.AssemblyInfo.cs
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\obj\Debug\netcoreapp3.1\Day4EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\obj\Debug\netcoreapp3.1\Day4EmployeeWage.dll
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\obj\Debug\netcoreapp3.1\Day4EmployeeWage.pdb
+C:\Users\bagav\saran\visual studio\Day5EmployeWage\Day4EmployeeWage\obj\Debug\netcoreapp3.1\Day4EmployeeWage.genruntimeconfig.cache
